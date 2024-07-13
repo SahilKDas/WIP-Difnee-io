@@ -25,7 +25,7 @@ screen_height = tile_size * len(world_data)
 screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption('DifneeIO')
 
-pygame.mixer.music.load('assets/music/retroindiejosh_pattern.wav')
+pygame.mixer.music.load('assets/music/retroindiejosh_air.wav')
 pygame.mixer.music.play(-1, 0.0, 5000)
 
 def draw_grid():
