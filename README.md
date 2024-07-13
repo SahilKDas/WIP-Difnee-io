@@ -31,12 +31,6 @@ ______________________
 air / synthy piano meandering backing or scene
 80pm / loop 0:00.00
 
-pattern/ 4-4 mysterious ethereal backing or scene
-169bpm / loop 0:00.00
-
-the well-traveled path / 4-4 piano backing
-120bpm / loop 0:16.00
-
 ______________________
 \ MORE MUSIC
  ---------------------
